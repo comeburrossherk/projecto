@@ -1,0 +1,111 @@
+C:\Users\Alumno\source\repos\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones_proyecto_intento1.FmrRegistro.resources
+C:\Users\Alumno\source\repos\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones_proyecto_intento1.Form1.resources
+C:\Users\Alumno\source\repos\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones_proyecto_intento1.FrmPrincipal.resources
+C:\Users\Alumno\source\repos\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones_proyecto_intento1.FrmRegistro.resources
+C:\Users\Alumno\source\repos\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\suscripciones proyecto intento1.exe
+C:\Users\Alumno\source\repos\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\suscripciones proyecto intento1.deps.json
+C:\Users\Alumno\source\repos\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\suscripciones proyecto intento1.runtimeconfig.json
+C:\Users\Alumno\source\repos\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\suscripciones proyecto intento1.dll
+C:\Users\Alumno\source\repos\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\suscripciones proyecto intento1.pdb
+C:\Users\Alumno\source\repos\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.dll
+C:\Users\Alumno\source\repos\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\refint\suscripciones proyecto intento1.dll
+C:\Users\Alumno\source\repos\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.pdb
+C:\Users\Alumno\source\repos\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.genruntimeconfig.cache
+C:\Users\Alumno\source\repos\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\ref\suscripciones proyecto intento1.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.csproj.AssemblyReference.cache
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones_proyecto_intento1.FmrRegistro.resources
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones_proyecto_intento1.Form1.resources
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones_proyecto_intento1.FrmPrincipal.resources
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones_proyecto_intento1.FrmRegistro.resources
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.csproj.GenerateResource.cache
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.AssemblyInfoInputs.cache
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.AssemblyInfo.cs
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.csproj.CoreCompileInputs.cache
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\refint\suscripciones proyecto intento1.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.pdb
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\suscripciones proyecto intento1.exe
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\suscripciones proyecto intento1.deps.json
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\suscripciones proyecto intento1.runtimeconfig.json
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\suscripciones proyecto intento1.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\suscripciones proyecto intento1.pdb
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripc.B63B425F.Up2Date
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.genruntimeconfig.cache
+C:\Users\ferib\Downloads\suscripciones proyecto intento1 (2)\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\ref\suscripciones proyecto intento1.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.csproj.AssemblyReference.cache
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones_proyecto_intento1.Form1.resources
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones_proyecto_intento1.FrmPrincipal.resources
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones_proyecto_intento1.FrmRegistro.resources
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.csproj.GenerateResource.cache
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.AssemblyInfoInputs.cache
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.AssemblyInfo.cs
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.csproj.CoreCompileInputs.cache
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\refint\suscripciones proyecto intento1.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.pdb
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\suscripciones proyecto intento1.exe
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\suscripciones proyecto intento1.deps.json
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\suscripciones proyecto intento1.runtimeconfig.json
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\suscripciones proyecto intento1.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\suscripciones proyecto intento1.pdb
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripc.B63B425F.Up2Date
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones proyecto intento1.genruntimeconfig.cache
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\ref\suscripciones proyecto intento1.dll
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones_proyecto_intento1.FrmRecomendador2.resources
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones_proyecto_intento1.FrmCatalogo.resources
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones_proyecto_intento1.FrmMiSuscripcion.resources
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones_proyecto_intento1.FrmAdmin.resources
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\Imagenes\1.jpg
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\Imagenes\10.jpg
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\Imagenes\11.jpg
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\Imagenes\12.jpg
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\Imagenes\13.jpg
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\Imagenes\14.jpg
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\Imagenes\15.jpg
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\Imagenes\16.jpg
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\Imagenes\17.jpg
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\Imagenes\18.jpg
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\Imagenes\19.jpg
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\Imagenes\2.jpg
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\Imagenes\20.jpg
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\Imagenes\21.jpg
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\Imagenes\22.jpg
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\Imagenes\3.jpg
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\Imagenes\4.jpg
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\Imagenes\5.jpg
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\Imagenes\6.jpg
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\Imagenes\7.jpg
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\Imagenes\8.jpg
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\bin\Debug\net10.0-windows\Imagenes\9.jpg
+C:\Users\ferib\Downloads\suscripciones proyecto intento1\suscripciones proyecto intento1\suscripciones proyecto intento1\obj\Debug\net10.0-windows\suscripciones_proyecto_intento1.FrmEstadisticas.resources
